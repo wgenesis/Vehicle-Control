@@ -6,7 +6,7 @@
 
 
 
-<img src=".\images\运动学模型.png" alt="运动学模型" style="zoom: 67%;" />
+<img src="https://github.com/WeiHYDavid/Vehicle-Control/blob/main/images/KinematicModel.png" alt="运动学模型" style="zoom: 67%;" />
 
 ​		首先建立车辆的运动学模型，选取车辆的状态量和控制量：
 $$
@@ -25,7 +25,7 @@ $$
 
 为推算状态量$\varphi$的一阶微分，将车辆的模型进一步简化：
 
-<img src=".\images\运动学模型简化.png" style="zoom: 25%;" />
+<img src="https://github.com/WeiHYDavid/Vehicle-Control/blob/main/images/SimplifiedKinematicModel.png" style="zoom: 25%;" />
 
 由上图的几何关系可得车辆旋转的线速度：
 $$
